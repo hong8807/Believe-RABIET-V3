@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '#000000', '#FFD700', '#DC143C', '#00CED1', '#FF8C00', '#8A2BE2', '#20B2AA', '#FF69B4'
     ];
     const messages = [
-        "경증 환자, LA GRADE A-B, 라비에트 20MG BID",
+        "경증 환자, LA GRADE A-B, 라비에트 10MG BID",
         "중증 환자, LA GRADE C-D, 라비에트 20MG BID",
         "가슴 통증, 만성 기침, 후두 이물감 있는 환자, 라비에트 20MG BID",
         "라비에트는 FULL DOSE BID 처방(20MG BID)되는 유일한 PPI(K21.0)",
